@@ -1,3 +1,5 @@
+// Working with basic types
+// Define strict types by using a colon followed by the type
 function add(n1: number, n2: number, log: boolean, phrase: string) {
   const result = n1 + n2;
   if (log) {
